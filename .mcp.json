@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "sqyre": {
+      "type": "http",
+      "url": "https://api.sqyre.ai/api/v1/mcp"
+    }
+  }
+}

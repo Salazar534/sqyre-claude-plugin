@@ -1,0 +1,19 @@
+{
+  "name": "sqyre-claude-plugin",
+  "owner": {
+    "name": "Sqyre",
+    "url": "https://sqyre.ai"
+  },
+  "plugins": [
+    {
+      "name": "sqyre",
+      "source": "./",
+      "description": "Run a home-service company in Sqyre: clients, quotes, invoices, the schedule, accounting, and messages.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Sqyre",
+        "url": "https://sqyre.ai"
+      }
+    }
+  ]
+}

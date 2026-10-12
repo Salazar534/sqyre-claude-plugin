@@ -1,0 +1,14 @@
+{
+  "name": "sqyre",
+  "displayName": "Sqyre",
+  "version": "1.0.0",
+  "description": "Run a home-service company in Sqyre: clients, quotes, invoices, the schedule, accounting, and messages.",
+  "author": {
+    "name": "Sqyre",
+    "url": "https://sqyre.ai"
+  },
+  "homepage": "https://sqyre.ai",
+  "repository": "https://github.com/Salazar534/sqyre-claude-plugin",
+  "license": "MIT",
+  "keywords": ["sqyre", "field-service", "invoicing", "scheduling", "accounting"]
+}
